@@ -26,9 +26,11 @@ A simple and interactive **Expense Manager** web app that helps users track thei
    git clone https://github.com/yourusername/expense-manager.git
 
 2. **Navigate to the project folder**
+   ```bash
    cd expense-manager
 
-3. **Run the project**
+4. **Run the project**
+    ```bash
    index.html
    
 
